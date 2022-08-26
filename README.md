@@ -1,6 +1,6 @@
 # CSCI5560
 
-# Group members:
+## Group members:
 
 Matthew Radice
 
