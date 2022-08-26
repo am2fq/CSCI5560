@@ -3,8 +3,11 @@
 # Group members:
 
 Matthew Radice
+
 Adel
+
 Christine
+
 Zernab
 
 ## Purpose:
