@@ -1,0 +1,17 @@
+Add mathew
+Mathew +17189244616
+unknown 11111111
+Jansen
+then run scanner
+
+Turnoff the validity
+
+Edit the expiry date
+
+Delete a group and show ondelete cascade
+
+Show check key constraint setting valid to 2
+
+Add a group using same app name and group name 
+
+Change limit to 1 and try adding a group (add-group.php)
