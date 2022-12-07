@@ -6,10 +6,6 @@ Matthew Radice
 
 Adel
 
-Christine
-
-Zernab
-
 ## Purpose:
 
 Purpose of project.
