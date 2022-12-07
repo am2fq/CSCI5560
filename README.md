@@ -2,9 +2,8 @@
 
 ## Group members:
 
+Adel Mahfooz
 Matthew Radice
-
-Adel
 
 ## Purpose:
 
